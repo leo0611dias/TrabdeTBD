@@ -1,3 +1,3 @@
 # TrabdeTBD
 
-Link DATASET 1: https://docs.google.com/document/d/1I_kYGbDWUuI6PSENhuiJAWrlM_JmoYQQay42q8oZlrc/edit?tab=t.0
+colab: https://colab.research.google.com/drive/1KR5QFcf8yo_ukIRjveROcu5sNnZdE6RJ?usp=sharing
